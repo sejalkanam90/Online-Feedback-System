@@ -110,7 +110,6 @@ Email: sejalkanam7@gmail.com
 
 📄 License
 
-MIT License
 This project is for educational purposes only.
 
 🔗 Repository: https://github.com/sejalkanam90/Online-Feedback-System
