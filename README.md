@@ -88,6 +88,8 @@ startup.bat
 ./startup.sh
 6. Access the Application
 http://localhost:8080/feedback/Form.jsp
+
+
 📁 Project Structure
 Online-Feedback-System/
 │
@@ -100,11 +102,15 @@ Online-Feedback-System/
 │   │   ├── web.xml
 │   │   └── lib/
 │   │       └── mysql-connector-j-8.0.33.jar
-👨‍💻 Author
 
+
+👨‍💻 Author
 Sejal Kanam
 
 GitHub: https://github.com/sejalkanam90
+
+🔗 Repository: https://github.com/sejalkanam90/Online-Feedback-System
+
 
 Email: sejalkanam7@gmail.com
 
@@ -112,4 +118,3 @@ Email: sejalkanam7@gmail.com
 
 This project is for educational purposes only.
 
-🔗 Repository: https://github.com/sejalkanam90/Online-Feedback-System
